@@ -1,5 +1,4 @@
-### Hi there, I'm Joseph Imafidon 👋
-## I can write efficiently in javascript and SQL
+### Hi, I'm Joseph Imafidon 👋
 
 Here are some ideas to get you started:
 
